@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component xmlns="http:/opensource-socialnetwork.org/v/1.0">
-    <com_name>Blog</com_name>
-    <com_author>Arsalan Shah</com_author>
-    <com_description>Allow users to create blogs.</com_description>
-    <com_license>General Public License Version 3</com_license>
-    <com_author_url>http://www.informatikon.com/</com_author_url>
-    <com_licence_url>http://opensource-socialnetwork.org/licence/</com_licence_url>
-    <com_version>1.0</com_version>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Blog</name> 
+    <id>Blog</id>
+    <author>Arsalan Shah and sathish kumar </author>
+    <description>Allow users to create blogs.</description>
+    <license>General Public License Version 3</license>
+    <author_url>http://www.informatikon.com/</author_url>
+    <licence_url>http://opensource-socialnetwork.org/licence/</licence_url>
+     <version>3.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>3.0</version>
+	</requires>
 </component>
