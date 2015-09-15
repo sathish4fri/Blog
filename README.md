@@ -1,2 +1,2 @@
 # blog
-A blog for Ossn 2.x
+A blog for Ossn 3.x
